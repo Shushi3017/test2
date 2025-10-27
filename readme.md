@@ -4,7 +4,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/shushi3017/">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
@@ -13,12 +13,12 @@
 
 <!-- * Description Section -->
 <div align="center">
-bla bla ba lkadskljasdljkadjklasdjklsajdkasdka .
+A lightweight, Docker-ready CodeIgniter 4 starter template with sample Auth, CRUD, and scheduler modules. Opinionated structure (Controllers → Services → Repositories) to speed development and simplify onboarding.
 </div>
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+![](https://visit-counter.vercel.app/counter.png?page=shushi3017/ad-project)
 
 <!-- ! Make sure it was similar to your github -->
 
