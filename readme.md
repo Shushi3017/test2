@@ -8,11 +8,12 @@
     
   </a>
 <!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
+  <h3 align="center">AD - TESTING1</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
+A beginner-friendly CodeIgniter 4 starter template to quickly bootstrap backend and frontend projects. Includes simple sample modules, Docker setup, and clear conventions to help teams get started fast.
 your name is goood hello world!
 </div>
 
