@@ -5,6 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/shushi3017/">
+    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
     
   </a>
 <!-- * Title Section -->
@@ -13,13 +14,14 @@
 
 <!-- * Description Section -->
 <div align="center">
+A lightweight, Docker-ready CodeIgniter 4 starter template with sample Auth, CRUD, and scheduler modules. Opinionated structure (Controllers → Services → Repositories) to speed development and simplify onboarding.
 A beginner-friendly CodeIgniter 4 starter template to quickly bootstrap backend and frontend projects. Includes simple sample modules, Docker setup, and clear conventions to help teams get started fast.
 your name is goood hello world!
 </div>
 
 <br/>
 
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/ci4-template)
+![](https://visit-counter.vercel.app/counter.png?page=shushi3017/ad-project)
 
 <!-- ! Make sure it was similar to your github -->
 
