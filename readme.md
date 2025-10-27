@@ -4,8 +4,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/shushi3017/">
+    
   </a>
 <!-- * Title Section -->
   <h3 align="center">AD - CI4 Template</h3>
@@ -13,7 +13,7 @@
 
 <!-- * Description Section -->
 <div align="center">
-bla bla ba lkadskljasdljkadjklasdjklsajdkasdka .
+your name is goood hello world!
 </div>
 
 <br/>
@@ -45,7 +45,7 @@ bla bla ba lkadskljasdljkadjklasdjklsajdkasdka .
       <a href="#rules-practices-and-principles">Rules, Practices and Principles</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#resources">adsadasdadad</a>
     </li>
   </ol>
 </details>
@@ -54,9 +54,31 @@ bla bla ba lkadskljasdljkadjklasdjklsajdkasdka .
 
 ## Overview
 
-loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
+AD - CI4 Template is a minimal, pragmatic starter for building CodeIgniter 4 applications with a focus on conventions, clarity, and fast onboarding.
 
-It is designed to be **easy to start with** and a **reference for adding new features**.
+Goals
+- Provide a predictable folder structure and naming conventions so teams can move fast.
+- Demonstrate Controller → Service → Repository separation with simple, real-world samples.
+- Ship small, working examples (auth, CRUD, scheduler) that you can extend or replace.
+
+What’s included
+- Sample modules: Auth (login/logout/roles), CRUD example, Scheduler demo.
+- Dockerized dev stack with common commands for migrations, seeders, and tests.
+- Example migrations/seeders, basic entities/models, and view components using Tailwind.
+- Guidance on commits, docs, and SOPs to keep workflow consistent.
+
+Quick start (3 steps)
+1. Clone repo and open project root.
+2. Start dev stack: docker compose up --watch
+3. Run migrations/seeds and open http://localhost:8090
+
+Recommended next steps
+- Update .env for local credentials and secrets.
+- Run phpunit and static analysis (phpstan) to confirm environment health.
+- Create an Issue → branch → implement feature using the project conventions (see docs/).
+
+Intent
+This repository is designed to be easy to start with and a dependable reference for adding new features while keeping code small, testable, and well-documented.
 
 * **Purpose**: a clean starting point for CI4 apps.
 * **Audience**: developers who want a predictable structure and quick onboarding.
@@ -90,9 +112,9 @@ These are **sample modules** included (or suggested) for learning how to add fea
 #### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black) -->
 
 <!-- ! Keep only the used technology -->
 
