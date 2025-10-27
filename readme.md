@@ -46,7 +46,7 @@ It helps teams quickly bootstrap backend + frontend projects, with simple sample
       <a href="#rules-practices-and-principles">Rules, Practices and Principles</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#resources">adsadasdadad</a>
     </li>
   </ol>
 </details>
@@ -55,9 +55,8 @@ It helps teams quickly bootstrap backend + frontend projects, with simple sample
 
 ## Overview
 
-This template provides a **minimal CodeIgniter 4 project layout** with conventions for file organization, commit practices, and simple modules.
-
-It is designed to be **easy to start with** and a **reference for adding new features**.
+adadadadadada
+It is desigasdasdadasdadadadadned to be **easy to start with** and a **reference for adding new features**.
 
 * **Purpose**: a clean starting point for CI4 apps.
 * **Audience**: developers who want a predictable structure and quick onboarding.
@@ -91,9 +90,9 @@ These are **sample modules** included (or suggested) for learning how to add fea
 #### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black) -->
 
 <!-- ! Keep only the used technology -->
 
